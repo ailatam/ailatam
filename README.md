@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ailatam
+- 👋 Hi, I’m @ailatam, this is my professional reinvention 
 - 👀 I’m interested in practice tools to be more productive 
 - 🌱 I’m currently learning machine learning in Platzi
 - 💞️ I’m looking to collaborate on integrating data science+machine learning into B2B to grow sales and reduce process
-- 📫 How to reach me expertailatam@gmail.com
+- 📫 How to reach me expertailatam@gmail.com or LinkedIn: Mayerly Alviarez
 
 <!---
 ailatam/ailatam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
